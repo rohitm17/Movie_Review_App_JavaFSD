@@ -1,0 +1,12 @@
+1. git init 
+Initialized empty Git repository in E:/Spring Basics/Movie_App_JavaFSD/.git/
+2. git clone https://github.com/rohitm17/Movie_Review_App_JavaFSD.git
+on branch (main)
+3. git status
+4. cd Movie_Review_App_JavaFSD/
+5. git add .
+6. git config --global user.email rohit.1705.mittal@gmail.com
+7. git config --global user.name rohitm17
+8. git commit -m "Changed the redme content"
+9. git push
+
