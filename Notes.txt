@@ -1,0 +1,13 @@
+Frontend -
+
+npm install --save-dev winston
+
+to handle CORS
+https://way2programming.com/article/Movie%20app%20Full%20Stack%20Development%20with%20Java%20Spring%20Boot,%20Angular,%20and%20MongoDB#Create%20Angular%20Project%20and%20Setup%20Proxy
+
+ng add @ng-bootstrap/ng-bootstrap
+
+npm install @fortawesome/angular-fontawesome
+https://www.npmjs.com/package/@fortawesome/angular-fontawesome
+
+
